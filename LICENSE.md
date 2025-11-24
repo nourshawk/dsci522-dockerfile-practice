@@ -1,4 +1,4 @@
-# The github workflow we used for this repository is from Tiffany Timbers' github repository. URL: <https://github.com/ttimbers/dsci522-dockerfile-practice>
+The github workflow we used for this repository is from Tiffany Timbers' github repository. URL: <https://github.com/ttimbers/dsci522-dockerfile-practice>
 
 # Software
 
